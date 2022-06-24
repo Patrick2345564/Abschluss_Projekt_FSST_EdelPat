@@ -1,4 +1,5 @@
 #Autor:Edelmann Patrick
+#Partner:Simon Angerer
 #Titel:Viergewinnt ohne Computergegner
 #Datum:23.06.2022
 #Klasse:4AHEL
