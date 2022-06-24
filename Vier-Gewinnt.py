@@ -1,7 +1,7 @@
 #Autor:Edelmann Patrick
 #Partner:Simon Angerer
 #Titel:Viergewinnt ohne Computergegner
-#Datum:23.06.2022
+#Datum:24.06.2022
 #Klasse:4AHEL
 #FSST Endprojekt
 #Betreuer:Müller Walter
@@ -64,7 +64,7 @@ class Player(object):
         self.points += 1
 
 
-# Hauptklasse
+# Hauptklassen
 class Game(object):
     def __init__(self, columns=7, rows=6, field_radius=50, field_space=10, win_condition=4):
         self.columns = columns
